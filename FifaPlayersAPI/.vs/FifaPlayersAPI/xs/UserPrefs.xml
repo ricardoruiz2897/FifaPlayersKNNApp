@@ -1,0 +1,40 @@
+﻿<Properties StartupConfiguration="{C284D1DF-7966-42C8-9698-559BEAA360D8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="FifaPlayersAPI/Controllers/FifaPlayersController.cs">
+    <Files>
+      <File FileName="FifaPlayersAPI/Model/Requests/ClosestPlayerResponse.cs" Line="1" Column="1" />
+      <File FileName="FifaPlayersAPI/Model/Requests/ClosestPlayerRequest.cs" />
+      <File FileName="FifaPlayersAPI/Controllers/FifaPlayersController.cs" Line="55" Column="10" />
+      <File FileName="FifaPlayersAPI/Model/PlayerInfo.cs" />
+      <File FileName="FifaPlayersAPI/Data/front_end_dataset.json" />
+      <File FileName="../../Documents/chatBoxServer/chatBoxServer/Startup.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="FifaPlayersAPI" expanded="True">
+            <Node name="FifaPlayersAPI" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="FifaPlayersController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Model" expanded="True">
+                <Node name="Requests" expanded="True" />
+              </Node>
+              <Node name="Process" expanded="True" />
+              <Node name="Properties" expanded="True" />
+              <Node name="Services" expanded="True" />
+              <Node name="appsettings.json" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.FifaPlayersAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+</Properties>
